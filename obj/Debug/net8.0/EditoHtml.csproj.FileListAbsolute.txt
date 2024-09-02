@@ -1,0 +1,14 @@
+C:\Users\luis\OneDrive\Área de Trabalho\development\EditoHtml\bin\Debug\net8.0\EditoHtml.exe
+C:\Users\luis\OneDrive\Área de Trabalho\development\EditoHtml\bin\Debug\net8.0\EditoHtml.deps.json
+C:\Users\luis\OneDrive\Área de Trabalho\development\EditoHtml\bin\Debug\net8.0\EditoHtml.runtimeconfig.json
+C:\Users\luis\OneDrive\Área de Trabalho\development\EditoHtml\bin\Debug\net8.0\EditoHtml.dll
+C:\Users\luis\OneDrive\Área de Trabalho\development\EditoHtml\bin\Debug\net8.0\EditoHtml.pdb
+C:\Users\luis\OneDrive\Área de Trabalho\development\EditoHtml\obj\Debug\net8.0\EditoHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis\OneDrive\Área de Trabalho\development\EditoHtml\obj\Debug\net8.0\EditoHtml.AssemblyInfoInputs.cache
+C:\Users\luis\OneDrive\Área de Trabalho\development\EditoHtml\obj\Debug\net8.0\EditoHtml.AssemblyInfo.cs
+C:\Users\luis\OneDrive\Área de Trabalho\development\EditoHtml\obj\Debug\net8.0\EditoHtml.csproj.CoreCompileInputs.cache
+C:\Users\luis\OneDrive\Área de Trabalho\development\EditoHtml\obj\Debug\net8.0\EditoHtml.dll
+C:\Users\luis\OneDrive\Área de Trabalho\development\EditoHtml\obj\Debug\net8.0\refint\EditoHtml.dll
+C:\Users\luis\OneDrive\Área de Trabalho\development\EditoHtml\obj\Debug\net8.0\EditoHtml.pdb
+C:\Users\luis\OneDrive\Área de Trabalho\development\EditoHtml\obj\Debug\net8.0\EditoHtml.genruntimeconfig.cache
+C:\Users\luis\OneDrive\Área de Trabalho\development\EditoHtml\obj\Debug\net8.0\ref\EditoHtml.dll
